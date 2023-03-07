@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+/* Base */
+@import url("./_base.css");
+@import url("./_variables.css");
+
+/* Components */
+@import url("./components/_button.css");
+@import url("./components/_container.css");
+
+
+/* Section */
+@import url("./sections/_events.css");
+@import url("./sections/_footer.css");
+@import url("./sections/_header.css");
+@import url("./sections/_navbar.css");
+@import url("./sections/_pricing.css");
+@import url("./sections/_schedule.css");
+@import url("./sections/_team.css");
+@import url("./sections/_testimonial.css");
+
+
