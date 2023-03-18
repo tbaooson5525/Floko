@@ -1,0 +1,19 @@
+:root {
+    /* Color */
+    --body-color:#BFBFBF;
+    --heading-color:#fff;
+    --bg-color: #1D1D1D;
+
+    /* Font */
+    --header-ff:"Poppins",sans-serif;
+    --body-ff: "Manrope",sans-serif;
+    --fs-base: 16px;
+
+    /* Border radius */
+    --rounded: 18;
+    --rounded-lg: 130;
+    --rounded-full: 9999
+
+    /*  */
+
+}

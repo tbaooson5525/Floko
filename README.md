@@ -30,12 +30,12 @@
       - h3: 52 px / 48 px
       - h4: 36 px / 36 px
       - h5: 28 px / 28 px
-      - h6: 28 px / 28 px
+      - h6: 18 px / 18 px
   - Body:
     - Font-family: Manrope
     - Color:
     - Font-size:
-      - text-sm: 14 px / ... px
+      - text-sm: 14 px / 24 px
       - text-md: 16 px / 16 px
       - text-lg: 18 px / 18 px
       - text-xl: 20 px / 20 px
@@ -53,9 +53,9 @@
 
 ## BORDER RADIUS
 
-- rounded-sm: 18
-- rounded: 130
-- rounded-lg:
+- rounded-sm: 
+- rounded: 18
+- rounded-lg: 130
 - rounded-full: 9999
 
 ## Layout
