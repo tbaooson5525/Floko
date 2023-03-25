@@ -1,0 +1,14 @@
+.team-text {
+    text-align: center;
+}
+
+.team-text p {
+    margin-top: 20px;
+    margin-bottom: 56px;
+}
+
+.team-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}

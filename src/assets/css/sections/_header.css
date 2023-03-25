@@ -1,0 +1,75 @@
+#header {
+    position: relative;
+}
+
+.header-decor .x1{
+    position: absolute;
+    left: 209px;
+    top: 86px;
+}
+
+.header-decor .o2{
+    position: absolute;
+    left: 1097px;
+    top: 73px;
+}
+
+.header-decor .o3{
+    position: absolute;
+    left: 250px;
+    top: 293px;
+}
+
+.header-decor .x4{
+    position: absolute;
+    left: 1266px;
+    top: 315px;
+}
+
+.header-info {
+    background: linear-gradient(to right, #C15D74, #DD9C77); 
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 8px;
+}
+
+.header-intro {
+    margin-bottom: 44px;
+}
+
+.header-text {
+    text-align: center;
+}
+
+.header-text .btn {
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 8px 8px 62px;
+}
+
+.header-text .btn:hover {
+    background-color: #5162FE;
+    border: 0;
+}
+
+.header-team {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 30px;
+}
+
+.header-team-items {
+    position: relative;
+}
+
+.header-member-name {
+    position: absolute;
+    bottom: 30px;
+    text-align: center;
+}
+
+.header-member-name p {
+    color: var(--heading-color);
+    font-family: var(--header-ff);
+    line-height: 30px;
+}

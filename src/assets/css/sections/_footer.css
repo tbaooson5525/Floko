@@ -1,0 +1,38 @@
+.footer-content {
+    display: grid;
+    grid-template-columns: 36% 17% 17% 30%;
+    margin-bottom: 77px;
+}
+
+.footer-content h6 {
+    padding-bottom: 14px;
+}
+
+.footer-content p {
+    padding: 10px 0;
+}
+
+.footer-contact button {
+    width: 100%;
+    padding: 14px 40px;
+    border: 1p solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 24px;
+}
+
+.footer-contact button:hover {
+    background-color: var(--body-color);
+    color: var(--bg-color);
+}
+
+.footer-social {
+    display: flex;
+    flex-direction: row;
+    column-gap: 34px;
+}
+
+.footer-credit {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}

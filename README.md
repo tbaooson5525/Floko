@@ -25,12 +25,12 @@
     - Color: 
     - Font weight: 
     - Font-size:
-      - h1: 16 px / 106 px
-      - h2: 72 px / 76 px (max-width: )
-      - h3: 52 px / 48 px
-      - h4: 36 px / 36 px
-      - h5: 28 px / 28 px
-      - h6: 18 px / 18 px
+      - h1: 92 px / 106 px / 800
+      - h2: 72 px / 76 px / 700
+      - h3: 52 px / 48 px / 800
+      - h4: 36 px / 36 px / 700
+      - h5: 28 px / 28 px / 700
+      - h6: 18 px / 18 px / 600
   - Body:
     - Font-family: Manrope
     - Color:
@@ -60,7 +60,7 @@
 
 ## Layout
 
-- Container: margin: 150px 135px (padding px)
+- Container: margin: 75px 135px (padding px)
 - Container Fluid:  (padding px)
 
 ## Components

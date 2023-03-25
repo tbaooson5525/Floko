@@ -1,0 +1,73 @@
+#pricing h2 {
+    text-align: center;
+    padding-bottom: 82px;
+}
+
+.pricing-ticket {
+    border: 1px solid #383838;
+    border-radius: var(--rounded);
+    background-color: #272727;
+}
+
+.pricing-content {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 30px;
+}
+
+.pricing-header {
+    padding: 26px 176px 29px 38px;
+}
+
+.ticket-black {
+    background-color: var(--bg-color);
+    border-radius: 18px 18px 0px 0px;
+}
+
+.ticket-pink {
+    background-color: #F36B7F;
+    border-radius: 18px 18px 0px 0px;
+}
+
+.ticket-green {
+    background-color: #70D18C;
+    border-radius: 18px 18px 0px 0px;
+}
+
+.pricing-main-feature {
+    width: 100%;
+    padding: 73px 0 73px 38px;
+}
+
+.pricing-main-feature li{
+    margin: 11px 0;
+    display: flex;
+    align-items: center;
+}
+
+.pricing-main-feature img {
+    margin-right: 18px;
+}
+
+.pricing-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 37px;
+}
+
+.pricing-btn .btn {
+    padding: 12px 20px;
+    background-color: var(--bg-color);
+}
+
+.pricing-btn .btn:hover {
+    background-color: #5162FE;
+    border: 0;
+}
+
+.pricing-btn i {
+    margin-left: 100px;
+}
+

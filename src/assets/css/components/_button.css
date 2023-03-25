@@ -1,0 +1,9 @@
+.btn {
+    border-radius: var(--rounded-lg);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    font-size: 16px;
+    line-height: 16px;
+    color: var(--heading-color);
+} 
+
+

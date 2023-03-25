@@ -8,12 +8,11 @@
     --header-ff:"Poppins",sans-serif;
     --body-ff: "Manrope",sans-serif;
     --fs-base: 16px;
+    --lh-base: 16px;
 
     /* Border radius */
-    --rounded: 18;
-    --rounded-lg: 130;
-    --rounded-full: 9999
-
-    /*  */
+    --rounded: 18px;
+    --rounded-lg: 130px;
+    --rounded-full: 9999px;
 
 }

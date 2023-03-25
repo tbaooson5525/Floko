@@ -1,0 +1,28 @@
+#event {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 100px;
+}
+
+.event-text p {
+    color: var(--body-color);
+    margin-top: 38px;
+    margin-bottom: 32px;
+}
+
+.event-text h2 {
+    margin-top: 33px;
+}
+
+@media (max-width: 1280px) {
+    #event {
+        padding: 75px 50px;
+    }
+}
+
+@media (max-width: 1024px) {
+    #event {
+        grid-template-columns: repeat(1, 1fr);
+        padding: 75px 50px;
+    }
+}
