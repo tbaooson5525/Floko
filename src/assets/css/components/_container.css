@@ -3,3 +3,10 @@
     width: 100%;
 }
 
+
+@media (max-width: 1400px) {
+    .container {
+        padding: 75px 45px;
+        width: 100%;
+    }
+}

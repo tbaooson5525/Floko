@@ -8,7 +8,9 @@
     color: var(--body-color);
     margin-top: 38px;
     margin-bottom: 32px;
+    text-align: justify;
 }
+
 
 .event-text h2 {
     margin-top: 33px;
@@ -20,7 +22,7 @@
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1116px) {
     #event {
         grid-template-columns: repeat(1, 1fr);
         padding: 75px 50px;

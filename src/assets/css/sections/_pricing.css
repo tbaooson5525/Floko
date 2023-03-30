@@ -71,3 +71,32 @@
     margin-left: 100px;
 }
 
+@media (max-width:1400px) {
+    .pricing-content {
+        column-gap: 20px;
+    }
+}
+
+@media (max-width: 1279px) {
+    .pricing-content {
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 40px;
+        column-gap: 35px;
+    }
+    
+    .pricing-ticket:last-child {
+        grid-column: -1/1;
+        justify-self: center;
+    }
+}
+
+@media (max-width:894px) {
+    .pricing-content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .pricing-ticket {
+        align-items: center;
+        margin: 0 200px;
+    }
+}
