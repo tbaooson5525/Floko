@@ -6,4 +6,12 @@
     color: var(--heading-color);
 } 
 
+/* Go to top btn */
 
+#go-top {
+    font-size: 55px;
+    position: fixed;
+    right: 25px;
+    bottom: 10px;
+    color: var(--body-color);
+}
