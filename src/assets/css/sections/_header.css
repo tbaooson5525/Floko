@@ -28,7 +28,7 @@
 
 .header-info {
     background: linear-gradient(to right, #C15D74, #DD9C77); 
-    background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
     margin-bottom: 8px;
 }
