@@ -1,3 +1,6 @@
+#Floko
+Completed: https://phloko.netlify.app/
+
 # STYLE GUIDES
 
 ## COLOR
